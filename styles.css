@@ -48,18 +48,49 @@
 
 
 
-
 #contanierEjemplo1Flex {
     margin-top: 50px;
     display: flex;
-    height: 500px;
+    height: 300px;
     border: 1px solid black;
 
 }
-
 .boxesEjemplo1Flex {
     display: block;
     border: 1px solid black;
     height: 100px;
     width: 200px;
+
+}
+
+
+#containe1rEjemplo2Flex {
+    margin-top: 50px;
+    border: 1px solid black;
+    height: 300px;
+}
+
+#container2Ejemplo2Flex {
+    display: flex;
+    border: 1px solid black;
+    height: 300px;
+
+}
+
+.boxesAEjemplo2Flex {
+    display: block;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;
+    background-color: red;
+    color: white;
+}
+
+.boxesBEjemplo2Flex {
+    display: block;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    color: white;
 }
