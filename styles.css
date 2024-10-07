@@ -44,3 +44,22 @@
         font-size: 22px;
     }
 }
+
+
+
+
+
+#contanierEjemplo1Flex {
+    margin-top: 50px;
+    display: flex;
+    height: 500px;
+    border: 1px solid black;
+
+}
+
+.boxesEjemplo1Flex {
+    display: block;
+    border: 1px solid black;
+    height: 100px;
+    width: 200px;
+}
